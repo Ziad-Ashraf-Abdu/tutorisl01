@@ -7,6 +7,5 @@ public class Prop02 {
         int months = (n % 365) / 30 ;
         int days = (n % 365) % 30;
         System.out.printf("%d days = %d years + %d months + %d days", n, years, months, days);
-        sc.close();
     }
 }
