@@ -7,7 +7,5 @@ public class Prop01 {
 //        System.out.printf("Hello %s", name);
         System.out.print("Hello " + name);
 
-        sc.close();
-
     }
 }
