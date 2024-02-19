@@ -9,7 +9,6 @@ public class Prop06 {
 
         String[] words = sentence.split("\\s+");
         System.out.println(words.length);
-        sc.close();
 
     }
 }
